@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Todo-lista</title>
+</head>
+<body>
+    <h1 id="otsikko">Todo-lista</h1>
+   <form>
+        <label for="item">Tehtävä:</label>
+        <input id="item" type="text" placeholder="Syötä tehtävä"><br><br>
+        <button type="button" onclick="insertRows()">Lisää tehtävä</button>
+   </form>
+
+   <p id="laskuri">Tehtäviä jäljellä: 0</p>
+
+   <br>
+   
+   <!--Tähän luodaan Javascriptillä taulukko-->
+
+<script src="koodit.js"></script>
+</body>
+</html>
