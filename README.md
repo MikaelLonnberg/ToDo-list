@@ -1,6 +1,6 @@
-# Project Title 
+# ToDo-list
 
-ToDo-list, created by Mikael Lönnberg
+Created by Mikael Lönnberg
 
 ## Demo link:
 
