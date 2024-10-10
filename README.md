@@ -1,7 +1,3 @@
-# ToDo-list
-Netlify URL: 
-
-
 # Project Title 
 
 ToDo-list, created by Mikael Lönnberg
